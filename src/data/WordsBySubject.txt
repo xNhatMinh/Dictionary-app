@@ -1,0 +1,325 @@
+# Foods
+apple  quả táo  noun
+banana  quả chuối  noun
+bread  bánh mì  noun
+butter  bơ  noun
+carrot  cà rốt  noun
+cheese  phô mai  noun
+chicken  gà  noun
+chocolate  sô cô la  noun
+coconut  dừa  noun
+coffee  cà phê  noun
+egg  quả trứng  noun
+fish  cá  noun
+grape  nho  noun
+honey  mật ong  noun
+lemon  quả chanh  noun
+milk  sữa  noun
+orange  quả cam  noun
+pasta  mì  noun
+rice  gạo  noun
+salt  muối  noun
+sugar  đường  noun
+tomato  cà chua  noun
+vegetable  rau  noun
+water  nước  noun
+wine  rượu  noun
+eat  ăn  verb
+drink  uống  verb
+cook  nấu nướng  verb
+bake  nướng  verb
+fry  chiên  verb
+roast  nướng  verb
+slice  cắt lát  verb
+boil  đun sôi  verb
+steam  hấp  verb
+grill  nướng trên bếp than  verb
+hot  nóng  adjective
+cold  lạnh  adjective
+fresh  tươi  adjective
+spicy  cay  adjective
+sweet  ngọt  adjective
+salty  mặn  adjective
+bitter  đắng  adjective
+sour  chua  adjective
+delicious  ngon  adjective
+tasty  ngon miệng  adjective
+
+# Jobs
+artist  nghệ sĩ  noun
+baker  người làm bánh mì  noun
+chef  đầu bếp  noun
+dentist  nha sĩ  noun
+doctor  bác sĩ  noun
+engineer  kỹ sư  noun
+farmer  nông dân  noun
+firefighter  lính cứu hỏa  noun
+fisherman  ngư dân  noun
+florist  người bán hoa  noun
+cook  nấu nướng  verb
+paint  vẽ tranh  verb
+write  viết  verb
+teach  dạy  verb
+heal  chữa lành  verb
+build  xây dựng  verb
+plant  trồng cây  verb
+catch  bắt  verb
+sell  bán  verb
+sing  hát  verb
+happy  hạnh phúc  adjective
+sad  buồn  adjective
+angry  tức giận  adjective
+tired  mệt mỏi  adjective
+strong  mạnh  adjective
+weak  yếu  adjective
+kind  tử tế  adjective
+friendly  thân thiện  adjective
+brave  dũng cảm  adjective
+scary  đáng sợ  adjective
+
+# Animals
+cat  con mèo  noun
+dog  con chó  noun
+elephant  con voi  noun
+giraffe  con hươu cao cổ  noun
+lion  con sư tử  noun
+monkey  con khỉ  noun
+penguin  chim cánh cụt  noun
+polar bear  gấu Bắc Cực  noun
+tiger  con hổ  noun
+zebra  ngựa vằn  noun
+swim  bơi  verb
+fly  bay  verb
+run  chạy  verb
+jump  nhảy  verb
+climb  leo  verb
+crawl  bò  verb
+hunt  săn bắn  verb
+sleep  ngủ  verb
+eat  ăn  verb
+drink  uống  verb
+big  to  adjective
+small  nhỏ  adjective
+fast  nhanh  adjective
+slow  chậm  adjective
+fierce  hung dữ  adjective
+gentle  hiền lành  adjective
+wild  hoang dã  adjective
+domestic  nuôi trong nhà  adjective
+nocturnal  về đêm  adjective
+diurnal  ban ngày  adjective
+
+# Transportations
+bicycle  xe đạp  noun
+bus  xe buýt  noun
+car  xe hơi  noun
+helicopter  trực thăng  noun
+motorcycle  xe máy  noun
+plane  máy bay  noun
+ship  tàu  noun
+subway  tàu điện ngầm  noun
+taxi  xe tắc xi  noun
+train  tàu hỏa  noun
+drive  lái xe  verb
+ride  đi xe  verb
+fly  bay  verb
+sail  đi biển  verb
+swim  bơi  verb
+stop  dừng lại  verb
+board  lên tàu, máy bay  verb
+land  hạ cánh  verb
+park  đỗ xe  verb
+crash  va chạm  verb
+fast  nhanh  adjective
+slow  chậm  adjective
+comfortable  thoải mái  adjective
+crowded  đông đúc  adjective
+dangerous  nguy hiểm  adjective
+safe  an toàn  adjective
+expensive  đắt tiền  adjective
+cheap  rẻ  adjective
+convenient  thuận tiện  adjective
+inconvenient  không thuận tiện  adjective
+
+# Holidays
+birthday  ngày sinh nhật  noun
+Christmas  Giáng Sinh  noun
+Easter  Lễ Phục Sinh  noun
+Halloween  Halloween  noun
+New Year  Năm mới  noun
+holiday  ngày nghỉ  noun
+celebrate  tổ chức  verb
+give  tặng  verb
+receive  nhận  verb
+decorate  trang trí  verb
+gather  tụ họp  verb
+eat  ăn  verb
+drink  uống  verb
+party  tiệc  verb
+fireworks  pháo hoa  noun
+gift  quà tặng  noun
+family  gia đình  noun
+friend  người bạn  noun
+fun  vui vẻ  adjective
+exciting  thú vị  adjective
+traditional  truyền thống  adjective
+festive  phần mừng  adjective
+happy  hạnh phúc  adjective
+memorable  đáng nhớ  adjective
+quiet  yên bình  adjective
+noisy  ồn ào  adjective
+peaceful  yên bình  adjective
+
+# Family
+father  người bố  noun
+mother  người mẹ  noun
+brother  người anh em trai  noun
+sister  người chị em gái  noun
+son  người con trai  noun
+daughter  người con gái  noun
+grandfather  ông nội  noun
+grandmother  bà nội  noun
+uncle  người bác  noun
+aunt  người dì  noun
+husband  người chồng  noun
+wife  người vợ  noun
+cousin  người họ  noun
+nephew  cháu trai  noun
+niece  cháu gái  noun
+in-law  người họ hàng  noun
+parent  người cha mẹ  noun
+child  đứa trẻ  noun
+teenager  thiếu niên  noun
+elderly  người cao tuổi  noun
+divorce  ly dị  noun
+marriage  hôn nhân  noun
+love  tình yêu  noun
+relationship  mối quan hệ  noun
+sibling  anh em  noun
+birth  sự ra đời  noun
+home  nhà  noun
+hometown  quê hương  noun
+baby  đứa bé  noun
+infant  trẻ sơ sinh  noun
+
+# School
+student  học sinh  noun
+teacher  giáo viên  noun
+classroom  lớp học  noun
+homework  bài tập về nhà  noun
+exam  kỳ thi  noun
+lecture  bài giảng  noun
+textbook  sách giáo trình  noun
+subject  môn học  noun
+knowledge  kiến thức  noun
+lesson  bài học  noun
+college  trường đại học  noun
+university  trường đại học  noun
+study  học  verb
+learn  học  verb
+educate  giáo dục  verb
+knowledgeable  hiểu biết  adjective
+smart  thông minh  adjective
+intelligent  thông minh  adjective
+creative  sáng tạo  adjective
+hardworking  chăm chỉ  adjective
+diligent  siêng năng  adjective
+knowledgeable  có kiến thức  adjective
+curriculum  chương trình học  noun
+library  thư viện  noun
+degree  bằng cấp  noun
+classmate  bạn học  noun
+schoolmate  bạn học  noun
+scholarship  học bổng  noun
+graduate  tốt nghiệp  verb
+
+# Sport
+football  bóng đá  noun
+basketball  bóng rổ  noun
+swimming  bơi lội  noun
+running  chạy  noun
+tennis  quần vợt  noun
+gymnastics  môn thể dục dụng cụ  noun
+cycling  đạp xe  noun
+volleyball  bóng chuyền  noun
+athletics  điền kinh  noun
+golf  golf  noun
+athlete  vận động viên  noun
+coach  huấn luyện viên  noun
+team  đội  noun
+tournament  giải đấu  noun
+champion  nhà vô địch  noun
+winner  người chiến thắng  noun
+lose  thua  verb
+win  thắng  verb
+compete  cạnh tranh  verb
+practice  luyện tập  verb
+train  huấn luyện  verb
+dedication  sự cống hiến  noun
+fitness  sức khỏe  noun
+competition  cuộc thi  noun
+medal  huy chương  noun
+stadium  sân vận động  noun
+score  tỉ số  noun
+victory  chiến thắng  noun
+defeat  thất bại  noun
+
+# Weather
+weather  thời tiết  noun
+forecast  dự báo  noun
+temperature  nhiệt độ  noun
+cloud  đám mây  noun
+sunny  nắng  adjective
+rainy  mưa  adjective
+windy  gió  adjective
+snowy  tuyết  adjective
+storm  cơn bão  noun
+humidity  độ ẩm  noun
+thunderstorm  bão giông  noun
+climate  khí hậu  noun
+season  mùa  noun
+sunshine  ánh nắng mặt trời  noun
+umbrella  cái ô  noun
+heat  nhiệt độ cao  noun
+cold  lạnh  adjective
+wet  ẩm  adjective
+dry  khô  adjective
+fog  sương mù  noun
+hail  mưa đá  noun
+temperature  nhiệt độ  noun
+forecast  dự báo thời tiết  noun
+humid ẩm  adjective
+dry  khô  adjective
+rainfall lượng mưa noun
+thunder sấm sét noun
+
+# Entertainment
+music  âm nhạc  noun
+movie  phim  noun
+television  truyền hình  noun
+concert  buổi hòa nhạc  noun
+art  nghệ thuật  noun
+theater  rạp hát  noun
+dance  khiêu vũ  noun
+perform  biểu diễn  verb
+audience  khán giả  noun
+actor  diễn viên  noun
+actress  nữ diễn viên  noun
+director  đạo diễn  noun
+screen  màn hình  noun
+song  bài hát  noun
+show  chương trình  noun
+entertainment  giải trí  noun
+celebrity  người nổi tiếng  noun
+fame  danh tiếng  noun
+star  ngôi sao  noun
+drama  kịch  noun
+comedy  hài kịch  noun
+scene  cảnh  noun
+ticket  vé  noun
+play  kịch  noun
+instrument  nhạc cụ  noun
+guitar  đàn ghi ta  noun
+piano  đàn piano  noun
+vocal  âm nhạc cụ  noun
+pop  âm nhạc pop  noun

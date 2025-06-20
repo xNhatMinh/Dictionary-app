@@ -1,0 +1,117 @@
+grapefruit	ˈɡreɪpfruːt	noun	a subtropical citrus tree	quả bưởi
+grapes	ɡreɪps	noun	a berry, typically green or purple	nho
+happy	ˈhæpi	adj	feeling or showing pleasure or contentment	vui
+hello	həˈloʊ	noun	an expression of greeting	chào
+honey	ˈhʌni	noun	a sweet, sticky yellowish-brown fluid made by bees	mật ong
+hot	hɒt	adj	having a high degree of heat or a high temperature	nóng
+humorous	ˈhjuː.mər.əs	adj	full of, characterized by, or provoking humor; funny; comical	hài hước
+important	ɪmˈpɔːrtənt	adj	of great significance or value; likely to have a profound effect on success, survival, or well-being	quan trọng
+intelligent	ɪnˈtɛlɪdʒənt	adj	having or indicating a high or satisfactory degree of intelligence and mental capacity	thông minh
+interesting	ˈɪn.tər.ɛs.tɪŋ	adj	engaging or exciting and holding the attention or curiosity	thú vị
+juice	dʒuːs	noun	the liquid obtained from or present in fruit or vegetables	nước ép
+jump	dʒʌmp	verb	push oneself off the ground and into the air by using the muscles in one's legs and feet	nhảy
+kind	kaɪnd	adj	having or showing a friendly, generous, and considerate nature	tốt bụng
+lamb	læm	noun	flesh of a young sheep, used as food	cừu
+lazy	ˈleɪzi	adj	averse or disinclined to work, activity, or exertion; indolent	lười biếng
+lemon	ˈlɛmən	noun	a yellow citrus fruit	quả chanh
+lettuce	ˈlɛtɪs	noun	a cultivated plant of the daisy family	rau xà lách
+lobster	ˈlɒb.stər	noun	a large marine crustacean with a cylindrical body	tôm hùm
+lucky	ˈlʌki	adj	having, bringing, or resulting from good luck; fortunate	may mắn
+lunch	lʌntʃ	noun	a meal eaten in the middle of the day	bữa trưa
+mango	ˈmæŋ.ɡoʊ	noun	a fleshy yellowish-red tropical fruit	quả xoài
+mature	məˈtʊr	adj	fully developed physically; full-grown	trưởng thành
+milk	mɪlk	noun	an opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young	sữa
+modest	ˈmɒd.ɪst	adj	having or showing a moderate or humble estimate of one's merits, importance, etc.	khiêm tốn
+mountain	ˈmaʊn.tɪn	noun	a large elevated landmass, often with steep slopes and a significant elevation difference	núi
+nervous	ˈnɜː.vəs	adj	easily agitated or alarmed; tending to be anxious; highly strung	lo lắng
+noodles	ˈnuː.dəlz	noun	a strip, ring, or tube of pasta or a similar dough	mì
+ocean	ˈoʊ.ʃən	noun	a very large expanse of sea	đại dương
+oil	ɔɪl	noun	a viscous liquid derived from petroleum	dầu
+omelette	ˌɒm.əˈlet	noun	a dish made from beaten eggs	trứng áp chảo
+onion	ˈʌn.jən	noun	an edible bulb with a pungent taste and smell	hành
+optimistic	ˌɒp.tɪˈmɪs.tɪk	adj	disposed to take a favorable view of events or conditions and to expect the most favorable outcome	lạc quan
+orange	ˈɔːrɪndʒ	noun	a round juicy citrus fruit	quả cam
+papaya	pəˈpaɪə	noun	a tropical fruit with orange flesh	đu đủ
+pasta	ˈpæs.tə	noun	Italian dish consisting of wheat	mì ống
+patient	ˈpeɪ.ʃənt	adj	bearing provocation, annoyance, misfortune, delay, hardship, pain, etc., with fortitude and calm and without complaint, anger, or the like	kiên nhẫn
+peach	piːtʃ	noun	a round stone fruit with juicy yellow flesh	đào
+pear	pɛr	noun	a yellow or brownish-green edible fruit	quả lê
+pepper	ˈpɛpər	noun	a pungent, hot-tasting powder	hạt tiêu
+pineapple	ˈpaɪnæpəl	noun	a large tropical fruit	quả dứa
+plum	plʌm	noun	a small round fruit with a groove running down one side	mận
+polite	pəˈlaɪt	adj	showing good manners toward others, as in behavior, speech, etc.	lịch sự
+pomegranate	ˈpɒm.ɪ.ɡræn.ɪt	noun	a red fruit with a tough outer layer	quả lựu
+pork	pɔːrk	noun	flesh of a pig, used as food	thịt heo
+potato	pəˈteɪ.toʊ	noun	a starchy plant tuber	củ khoai tây
+practical	ˈpræk.tɪ.kəl	adj	of or relating to practice or action	thực tế
+pretty	ˈprɪti	adj	pleasing or attractive to the eye, as by delicacy or gracefulness	xinh đẹp
+quiet	ˈkwaɪ.ɪt	adj	making no noise or sound, especially no disturbing sound	yên tĩnh
+raspberry	ˈræz.bər.i	noun	an edible soft fruit	mâm xôi
+realistic	ˌriːəˈlɪs.tɪk	adj	interested in, concerned with, or based on what is real or practical	thực tế
+relaxed	rɪˈlækst	adj	free from tension and anxiety; at ease	thư giãn
+responsible	rɪˈspɒnsəbl	adj	answerable or accountable, as for something within one's power, control, or management	có trách nhiệm
+responsible	rɪˈspɒnsəbl	adj	involving accountability or responsibility	đáng kính
+rice	raɪs	noun	the seed of a grass	gạo
+romantic	roʊˈmæn.tɪk	adj	characterized by a preoccupation with love or by the idealizing of love or one's beloved	lãng mạn
+romantic	roʊˈmæn.tɪk	adj	imbued with or dominated by idealism, a desire for adventure, chivalry, etc.	mơ mộng
+rude	ruːd	adj	discourteous or impolite, especially in a deliberate way	thô lỗ
+run	rʌn	verb	move at a speed faster than a walk, never having both or all the feet on the ground at the same time	chạy
+sad	sæd	adj	affected by unhappiness or grief; sorrowful or mournful	buồn
+salt	sɔːlt	noun	a crystalline compound that consists of sodium chloride	muối
+sandwich	ˈsæn.dwɪtʃ	noun	a dish consisting of two pieces of bread	bánh mì kẹp
+sausage	ˈsɒsɪdʒ	noun	a cylindrical meat product	xúc xích
+selfish	ˈsɛlfɪʃ	adj	devoted to or caring only for oneself; concerned primarily with one's own interests, benefits, welfare, etc., regardless of others	ích kỷ
+serious	ˈsɪriəs	adj	of, showing, or characterized by deep thought	nghiêm trọng
+serious	ˈsɪriəs	adj	grave or somber in disposition, character, or manner	nghiêm túc
+shrimp	ʃrɪmp	noun	a small free-swimming crustacean with an elongated body	tôm
+shy	ʃaɪ	adj	easily frightened away; timid	ngại ngùng
+shy	ʃaɪ	adj	hesitating or timid in the company of others	nhút nhát
+shy	ʃaɪ	adj	easily startled	rụt rè
+shy	ʃaɪ	adj	suspicious; wary	bẻn lẻn
+simple	ˈsɪmpəl	adj	easy to understand, deal with, use, etc.	đơn giản
+sing	sɪŋ	verb	make musical sounds with the voice	hát
+sleep	sliːp	verb	a condition of body and mind that typically recurs for several hours every night	ngủ
+smart	smɑrt	adj	having or showing quick intelligence or ready mental capability	thông minh
+smile	smaɪl	verb	form one's features into a pleased, kind, or amused expression	cười
+social	ˈsoʊʃəl	adj	pertaining to, devoted to, or characterized by friendly companionship or relations	xã hội
+social	ˈsoʊʃəl	adj	living or disposed to live in companionship with others or in a community, rather than in isolation	hòa đồng
+soup	suːp	noun	a liquid dish, typically savoury and made by boiling meat	canh súp
+spinach	ˈspɪnɪdʒ	noun	a widely cultivated edible Asian plant	rau chân vịt
+squash	skwɒʃ	noun	a cultivated plant of the gourd family	bí ngô
+strawberry	ˈstrɔː.bər.i	noun	a sweet soft red fruit	dâu tây
+successful	səkˈsɛs.fəl	adj	attaining or having attained wealth, position, honors, or the like	thành công
+sugar	ˈʃʊɡər	noun	a sweet crystalline substance obtained from various plants	đường
+sun	sʌn	noun	the star around which the earth orbits	mặt trời
+talent	ˈtæl.ənt	noun	a special natural ability or aptitude	tài năng
+tall	tɔːl	adj	having a relatively great height; of more than average stature	cao
+tea	tiː	noun	a hot drink made by infusing the dried crushed leaves of the tea plant in boiling water	trà
+thin	θɪn	adj	having relatively little extent from one surface or side to the opposite; not thick	gầy
+tired	taɪrd	adj	exhausted in strength, endurance, etc.	mệt mỏi
+tomato	təˈmeɪ.toʊ	noun	a glossy red or yellow edible fruit	quả cà chua
+traditional	trəˈdɪʃənl	adj	of or relating to tradition	truyền thống
+travel	ˈtræv.əl	verb	make a journey, typically of some length or abroad	đi du lịch
+true	truː	adj	being in accordance with the actual state or conditions; conforming to reality or fact	đúng
+true	truː	adj	real or genuine	thật
+understanding	ˌʌndərˈstændɪŋ	noun	mental process of a person who comprehends; comprehension; personal interpretation	sự hiểu biết
+understanding	ˌʌndərˈstændɪŋ	noun	sympathetically aware of other people's feelings; tolerant and forgiving	sự đồng ý
+understanding	ˌʌndərˈstændɪŋ	noun	the mental faculty resolving sensory input into sequences of symbols representing the external objects	trí thông minh
+useful	ˈjuːs.fəl	adj	being of use or service; serving some purpose; advantageous, helpful, or of good effect	hữu ích
+valuable	ˈvæl.ju.ə.bl	adj	having considerable monetary worth; costing or bringing a high price	quý giá
+versatile	ˈvɜːr.sə.taɪl	adj	capable of or adapted for turning easily from one to another of various tasks, fields of endeavor, etc.	đa năng
+versatile	ˈvɜːr.sə.taɪl	adj	having or capable of many uses	linh hoạt
+versatile	ˈvɜːr.sə.taɪl	adj	capable of turning forward or backward	có nhiều tài năng
+versatile	ˈvɜːr.sə.taɪl	adj	capable of moving freely in all directions	có thể xoay tròn được
+walk	wɔːk	verb	move at a regular pace by lifting and setting down each foot in turn	đi bộ
+warm	wɔːrm	adj	having or giving out a moderate degree of heat, as perceived by the senses	ấm áp
+warm	wɔːrm	adj	characterized by affection, generosity, sympathy, etc.	nồng nhiệt
+water	ˈwɔː.tər	noun	a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain	nước
+watermelon	ˈwɔː.tərˌmɛl.ən	noun	a large melon with a hard green rind	quả dưa hấu
+weak	wiːk	adj	lacking in physical strength	yếu đuối
+weak	wiːk	adj	lacking in force, potency, or efficacy; impotent, ineffectual, or inadequate	yếu ớt
+wealthy	ˈwɛl.θi	adj	having great wealth; rich; affluent	giàu có
+wise	waɪz	adj	having the power of discerning and judging properly as to what is true or right	khôn ngoan
+wonderful	ˈwʌn.dər.fəl	adj	excellent; great; marvelous	tuyệt vời
+wonderful	ˈwʌn.dər.fəl	adj	causing wonder; marvelous; surprising	kinh ngạc
+wonderful	ˈwʌn.dər.fəl	adj	extraordinary; remarkable	phi thường
+young	jʌŋ	adj	being in the first or early stage of life or growth; youthful; not old	trẻ
+young	jʌŋ	adj	having the appearance, freshness, vigor, or other qualities of youth	trẻ tuổi
